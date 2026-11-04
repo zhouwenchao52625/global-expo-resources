@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zhouwenchao52625.github.io/global-expo-resources/sitemap.xml
